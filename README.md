@@ -106,6 +106,7 @@ plt.tight_layout()
 plt.show()```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/1c6bfda1-07c3-405c-a437-8e0210c0e559)
 
 
 ### RESULT / CONCLUSIONS
