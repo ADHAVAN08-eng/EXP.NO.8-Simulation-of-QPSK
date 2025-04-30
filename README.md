@@ -105,8 +105,9 @@ plt.legend()
 plt.tight_layout()
 plt.show()```
 
-### OUTPUT
-![image](https://github.com/user-attachments/assets/1c6bfda1-07c3-405c-a437-8e0210c0e559)
+**### OUTPUT**
+![image](https://github.com/user-attachments/assets/149bb812-63d3-4e55-b559-3ca2f74c924f)
+
 
 
 ### RESULT / CONCLUSIONS
