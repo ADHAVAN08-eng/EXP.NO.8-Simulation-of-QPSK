@@ -6,9 +6,7 @@
 To simulate Quadrature Phase Shift Keying (QPSK) modulation and demodulation using Python.
 
 ### SOFTWARE REQUIRED
-->Python 
-   
-   Libraries: numpy, matplotlib
+colab
 
 ### ALGORITHMS
 Transmitter:
@@ -106,6 +104,7 @@ plt.tight_layout()
 plt.show()```
 
 **### OUTPUT**
+
 ![image](https://github.com/user-attachments/assets/149bb812-63d3-4e55-b559-3ca2f74c924f)
 
 
